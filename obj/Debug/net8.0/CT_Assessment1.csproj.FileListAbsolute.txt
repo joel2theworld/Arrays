@@ -1,0 +1,14 @@
+C:\Users\joel2\OneDrive\Desktop\CT_Assessment1\bin\Debug\net8.0\CT_Assessment1.exe
+C:\Users\joel2\OneDrive\Desktop\CT_Assessment1\bin\Debug\net8.0\CT_Assessment1.deps.json
+C:\Users\joel2\OneDrive\Desktop\CT_Assessment1\bin\Debug\net8.0\CT_Assessment1.runtimeconfig.json
+C:\Users\joel2\OneDrive\Desktop\CT_Assessment1\bin\Debug\net8.0\CT_Assessment1.dll
+C:\Users\joel2\OneDrive\Desktop\CT_Assessment1\bin\Debug\net8.0\CT_Assessment1.pdb
+C:\Users\joel2\OneDrive\Desktop\CT_Assessment1\obj\Debug\net8.0\CT_Assessment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel2\OneDrive\Desktop\CT_Assessment1\obj\Debug\net8.0\CT_Assessment1.AssemblyInfoInputs.cache
+C:\Users\joel2\OneDrive\Desktop\CT_Assessment1\obj\Debug\net8.0\CT_Assessment1.AssemblyInfo.cs
+C:\Users\joel2\OneDrive\Desktop\CT_Assessment1\obj\Debug\net8.0\CT_Assessment1.csproj.CoreCompileInputs.cache
+C:\Users\joel2\OneDrive\Desktop\CT_Assessment1\obj\Debug\net8.0\CT_Assessment1.dll
+C:\Users\joel2\OneDrive\Desktop\CT_Assessment1\obj\Debug\net8.0\refint\CT_Assessment1.dll
+C:\Users\joel2\OneDrive\Desktop\CT_Assessment1\obj\Debug\net8.0\CT_Assessment1.pdb
+C:\Users\joel2\OneDrive\Desktop\CT_Assessment1\obj\Debug\net8.0\CT_Assessment1.genruntimeconfig.cache
+C:\Users\joel2\OneDrive\Desktop\CT_Assessment1\obj\Debug\net8.0\ref\CT_Assessment1.dll
